@@ -53,7 +53,7 @@ To reveal the UUID of the new partition
 
 Edit /etc/fstab to add the new partition
 
-- command          vim /etc/fstsb
+- command          vim /etc/fstab
 
 Add the new partition with the mount point directory, filesystem type, permission details, dump and pass values in the file and save (:wq)
 
